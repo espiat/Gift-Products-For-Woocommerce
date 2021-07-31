@@ -1,29 +1,12 @@
-<h1>Gift Products For Woocommerce</h1>
+# Gift Products For Woocommerce
+Welcome to the [Gift Products For Woocommerce](https://wordpress.org/plugins/gift-products-for-woocommerce/) repository on GitHub. Here you can browse the source, look at open issues and keep track of development.
 
+If you are not a developer, please use the [Gift Products For Woocommerce support forum](https://wordpress.org/support/plugin/gift-products-for-woocommerce/) on WordPress.org.
 
-**[Gift Product For Woocommerce](https://wordpress.org/plugins/gift-products-for-woocommerce/)** is a clean, simple to use elegant option with Switch to setup in Woocommerce for your [WordPress](https://en.wikipedia.org/wiki/WordPress) site.
+## Support
+This repository is not suitable for support. Please don't use our issue tracker for support requests, but for core plugin issues only. Support can take place in the appropriate channels:
 
-&#128312; **[Demos](http://oceanwebguru.com/oceanwebdemo/cart/?add-to-cart=180&quantity=3)**
+* The [Gift Products For Woocommerce support forum](https://wordpress.org/support/plugin/gift-products-for-woocommerce/) on WordPress.org.
+* [Premium support](https://www.xeeshop.com/support-us/) for customers who have purchased themes or plugins.
 
-**[WooCommerce Multiple Free Gift](https://wordpress.org/plugins/gift-products-for-woocommerce/)** allow to setup good discount in cart page.
-
-<h4>How it works Gift Product For Woocommerce</h4>
-
-
-> **Plugin Features**
->
-> * Easy use
-> * Mobile Friendly
-> * Color, text, Image Switches
-> * Tooltip On Hover option
-> * Compatible in all major browser
-
-**[Gift product woocommerce](https://wordpress.org/plugins/gift-products-for-woocommerce/)** make to custom will be attact to purchase any kind of product in woocommerce. its also know as **[free product woocommerce](https://wordpress.org/plugins/gift-products-for-woocommerce/)**.
-woocommerce on if you one buy one get one free like of than you can use that for **[free product with purchase woocommerce](https://wordpress.org/plugins/gift-products-for-woocommerce/)**.
-
-
-**[Woocommerce Gift Product](https://wordpress.org/plugins/gift-products-for-woocommerce/)** best selling item like **[Buy one get one free](https://wordpress.org/plugins/gift-products-for-woocommerce/)**. its making **[woocommerce free product plugin](https://wordpress.org/plugins/gift-products-for-woocommerce/)** into wordpress.
-
-
-
-
+Support requests in issues on this repository will be closed on sight.
