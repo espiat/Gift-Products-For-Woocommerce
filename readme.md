@@ -13,4 +13,3 @@ Support requests in issues on this repository will be closed on sight.
 
 Test
 
-New Text
